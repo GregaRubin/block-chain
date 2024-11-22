@@ -158,8 +158,8 @@ namespace blockChain
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Block Chain";
+            this.Text = "Block Chain";
             this.ResumeLayout(false);
             this.PerformLayout();
 
